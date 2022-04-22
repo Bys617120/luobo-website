@@ -1,19 +1,16 @@
 <?php
 $search = $_GET['search'] ?? '';
-
 $pageDatabase = array_filter($pageDatabase, function($info, $key)use($search){
 	if($key === 'dir') return false;
 	if(!$search) return true;
-	
-	if(
+    if(
 		strpos($info['title'], $search) !== FALSE || 
 		strpos($info['sub-title'], $search) !== FALSE || 
 		strpos($info['time'], $search) !== FALSE
 	){
 		return true;
 	}
-	
-	return false;
+		return false;
 }, ARRAY_FILTER_USE_BOTH);
 ?>
 <div class="search">
