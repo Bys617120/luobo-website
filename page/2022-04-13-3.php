@@ -3,7 +3,7 @@
 		叮~今日份数学作业请查收
 	</h1>
 	<div class="img-preview-list">
-		<?php for($x = 1; $x <= 1; $x++){ ?>
+		<?php for($x = 1; $x <= 2; $x++){ ?>
 		<div class="img-preview">
 			<div class="img-preview-box">
 				<img class="img-preview-item" src="/assets/img/2022-04-13-3/mt-<?=$x; ?>.png" alt="数学作业"/>
