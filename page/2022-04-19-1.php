@@ -76,6 +76,7 @@
 	<div class="item"><span class="key">8.at the age of在……岁时</div>
 	<div class="item"><span class="key">9.fit adj.健康的</div>
 	<div class="item"><span class="key">10.full of vigour 充满活力</div>
+	<div class="item"><span class="key">10.full of vigour 充满活力</div>
 	<div class="item"><span class="key">11.apply to do sth.申请做某事</div>
 	<div class="item"><span class="key">12.go along with与……一起</div>
 	<div class="item"><span class="key">13.go aboard the ship上船</div>
@@ -111,7 +112,7 @@
 	<div class="item"><span class="key">43.Finalize 最终确定</div>
 	<div class="item"><span class="key">44.Manufacturer 生产者</div>
 	<div class="item"><span class="key">45.Accelerate production加速生产</div>
-	<div class="item"><span class="key">46.free yourself from   把某人从…..中解救出来</div>
+	<div class="item"><span class="key">46.free yourself from   把某人从…中解救出来</div>
 	<div class="item"><span class="key">47.do great damage to  对……造成极大伤害</div>
 	<div class="item"><span class="key">48.make it到达，成功</div>
 	<div class="item"><span class="key">49.be interrupted by被……打断</div>
@@ -133,4 +134,15 @@
 	<div class="item"><span class="key">65.note v.记录</div>
 	<div class="item"><span class="key">66.be bored with对……厌倦=be fed up with=be tired of</div>
 	<div class="item"><span class="key">67.pretty well几乎</div>
+    <div class="item"><span class="key">68.was highly thought of in 被高度评价</div>
+    <div class="item"><span class="key">69.on a regular basis 定期</div>
+    <div class="item"><span class="key">70.rewarded n.消遣</div>
+    <div class="item"><span class="key">71.pastime 休闲活动</div>
+    <div class="item"><span class="key">72.rewarding 值得做的</div>
+    <div class="item"><span class="key">73.Digging through 挖掘</div>
+    <div class="item"><span class="key">74.Tiger Parents Do No Good to Kid’s Development告诉家长不要过分参与孩子的学习，要让他们在错误中成长</div>
+    <div class="item"><span class="key">index.php</div>
+    <div class="item"><span class="key">75.be responsible for 对…负责</div>
+    <div class="item"><span class="key">76.settled down 安定下来</div>
+    <div class="item"><span class="key">77.find out 发现、发明</div>
 </div>

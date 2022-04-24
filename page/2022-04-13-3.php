@@ -6,7 +6,7 @@
 		<?php for($x = 1; $x <= 1; $x++){ ?>
 		<div class="img-preview">
 			<div class="img-preview-box">
-				<img class="img-preview-item" src="/assets/img/2022-04-13-3/mt-<?=$x; ?>.png" />
+				<img class="img-preview-item" src="/assets/img/2022-04-13-3/mt-<?=$x; ?>.png" alt="数学作业"/>
 			</div>
 			<p class="img-preview-description">作业图片<?=$x; ?></p>
 		</div>
