@@ -1,24 +1,7 @@
 <div class="block">
-    <div class="item"><span class="key">1.D</div>
-    <div class="item"><span class="key">2.D</div>
-    <div class="item"><span class="key">3.D</div>
-    <div class="item"><span class="key">4.B</div>
-    <div class="item"><span class="key">5.B</div>
-    <div class="item"><span class="key">6.A</div>
-    <div class="item"><span class="key">7.B</div>
-    <div class="item"><span class="key">8.B</div>
-    <div class="item"><span class="key">9.D</div>
-    <div class="item"><span class="key">10.C</div>
-    <div class="item"><span class="key">11.C</div>
-    <div class="item"><span class="key">12.C</div>
-    <div class="item"><span class="key">13.D</div>
-    <div class="item"><span class="key">14.B</div>
-    <div class="item"><span class="key">15.B</div>
-    <div class="item"><span class="key">16.ABC</div>
-    <div class="item"><span class="key">17.D</div>
-    <div class="item"><span class="key">18.ABD</div>
-    <div class="item"><span class="key">19.D</div>
-    <div class="item"><span class="key">20.C</div>
+	<?php template_list([
+		'D', 'D', 'D', 'B', 'B', 'A', 'B', 'B', 'D', 'C', 'C', 'C', 'D', 'B', 'B', 'ABC', 'D', 'ABD', 'D', 'C'
+	]); ?>
 </div>
 <div class="block block-pink">
     <p>
