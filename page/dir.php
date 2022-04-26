@@ -19,6 +19,7 @@ $pageDatabase = array_filter($pageDatabase, function($info, $key)use($search){
 		<button><i class="iconfont icon-search"></i></button>
 	</form>
 </div>
+
 <?php if($pageDatabase){ ?>
 	<div class="page-list">
 		<?php foreach($pageDatabase as $key => $info){ ?>

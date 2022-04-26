@@ -25,7 +25,7 @@
 		<section id="author" onclick="alert('萝卜最可爱了ww')">
 			<img src="https://q1.qlogo.cn/g?b=qq&s=640&nk=1773966070" alt="可爱的萝卜ww" title="可爱的萝卜ww" />
 			<p>By.萝卜</p>
-		</div>
+		</section>
 		
 		<script src="/assets/vendor/viewer.js/viewer.min.js"></script>
 		<script src="/assets/js/main.js?r=<?=time(); ?>"></script>
