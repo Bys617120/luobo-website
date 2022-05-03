@@ -1,1 +1,1 @@
-<?php template_img_list('物理', 1, 19);
+<?php template_img_list('物理', 1, 23);
