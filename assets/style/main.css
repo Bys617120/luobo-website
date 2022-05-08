@@ -276,5 +276,46 @@ a:hover {
   height: 30px;
   cursor: pointer;
 }
+.file-list {
+  width: calc(100% + 60px);
+  margin: 0 -30px;
+  caption-side: bottom;
+  border-collapse: collapse;
+}
+.file-list tbody,
+.file-list td,
+.file-list tfoot,
+.file-list th,
+.file-list thead,
+.file-list tr {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+.file-list th,
+.file-list td {
+  line-height: 30px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.9);
+  border-width: 0;
+  text-align: left;
+  padding: 5px;
+}
+.file-list thead {
+  background-color: #66ccff;
+}
+.file-list thead th {
+  color: #fff;
+}
+.file-list .item {
+  background-color: #fff;
+  cursor: pointer;
+}
+.file-list .item:nth-of-type(odd) {
+  background-color: #f3f3f3;
+}
+.file-list .item:hover {
+  background-color: #ddd;
+}
 
 /*# sourceMappingURL=main.css.map */

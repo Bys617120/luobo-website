@@ -306,3 +306,55 @@ a {
 	i {
 	}
 }
+
+.file-list {
+	width: calc(100% + 60px);
+	margin: 0 -30px;
+
+	caption-side: bottom;
+	border-collapse: collapse;
+
+	tbody,
+	td,
+	tfoot,
+	th,
+	thead,
+	tr {
+		border-color: inherit;
+		border-style: solid;
+		border-width: 0;
+	}
+
+	th,
+	td {
+		line-height: 30px;
+		font-size: 18px;
+		color: rgb(0 0 0 / 90%);
+		border-width: 0;
+		text-align: left;
+		padding: 5px;
+	}
+
+	thead {
+		background-color: #66ccff;
+		th {
+			color: #fff;
+		}
+	}
+
+	tbody {
+	}
+
+	.item {
+		background-color: #fff;
+		cursor: pointer;
+
+		&:nth-of-type(odd) {
+			background-color: #f3f3f3;
+		}
+
+		&:hover {
+			background-color: #ddd;
+		}
+	}
+}
