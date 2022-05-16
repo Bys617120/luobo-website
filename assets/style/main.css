@@ -39,9 +39,8 @@ a:hover {
   }
 }
 #content h1 {
-  margin: 0;
   font-weight: normal;
-  margin-top: 40px;
+  margin: 40px 0 0;
 }
 #content p {
   margin: 10px 0;
@@ -51,7 +50,7 @@ a:hover {
   text-align: center;
   margin-bottom: 10px;
   color: #ffffff;
-  text-shadow: 0px 3px 10px #000;
+  text-shadow: 0 3px 10px #000;
   font-weight: bolder;
 }
 #content .sub-title {
@@ -74,15 +73,15 @@ a:hover {
   border-left: 5px solid #8b008b;
 }
 #content .kaitifont {
-  font-family: "KaiTi";
+  font-family: "KaiTi", serif;
   text-align: left;
   font-size: 21px;
 }
 #content .pinkfontshadow {
-  text-shadow: 0px 0px 20px #ff6767;
+  text-shadow: 0 0 20px #ff6767;
 }
 #content .intext {
-  font-family: "FangSong_GB2312";
+  font-family: "FangSong_GB2312", serif;
 }
 #content .list {
   list-style: decimal inside;
@@ -198,7 +197,7 @@ a:hover {
   color: #000;
   border-radius: 10px;
   transition: box-shadow 0.3s;
-  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   position: relative;
 }
 @media (max-width: 700px) {
@@ -207,7 +206,7 @@ a:hover {
   }
 }
 .page-list .item a:hover {
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 .page-list .item a .page-list-title {
   display: block;

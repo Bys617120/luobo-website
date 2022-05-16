@@ -1,69 +1,3 @@
-<div class="block">
-    1、advertising n.广告活动
-    advertise v.做广告
-    advertisement n.广告
-    an advertising brochure广告宣传手册
-    an advertising campaign广告宣传活动
-    advertise for为征求……登广告
-    put/place an advertisement in the newspaper/on TV advertise in the newspaper/on TV
-    在报纸/电视上登广告
-</div>
-<div class="block">
-    2、corporate adj.公司的，法人的
-    corporate finance/planning/strategy
-    公司的财务/计划/战略
-    corporate identity公司形象
-    corporate body法人团体
-    I’d like to see your corporate finance manager.
-    The law applies to both individuals and corporate body.
-</div>
-<div class="block">
-    3、rough adj.汹涌的
-    roughly adv.大致，粗糙地
-    rough ground 高低不平的地面
-    Though it was bright晴朗的, yet the sea was still very rough汹涌澎湃的.
-</div>
-<div class="block">
-    4、loyal adj.忠诚的
-    a loyal friend/supporter忠实的朋友/支持者
-    be loyal to对某人忠诚
-</div>
-<div class="block">
-    5、candidate n.候选人
-    a candidate for sth.某职位的候选人
-    a presidential candidate 总统候选人
-    The names of the successful candidates will be put up on the college notice board.
-</div>
-<div class="block">
-    6、make fire生火
-    set fire to放火烧
-    catch fire着火
-    be on fire着火
-    set sth. on fire纵火/点火烧某物
-    The explorers made fire to cook.
-</div>
-<div class="block">
-    7、give off放出
-    give away泄露，捐赠
-    give back归还，送回
-    give in （to） （向……）投降，屈服，让步
-    give up （doing）放弃（做某事）
-    give out分发，耗尽，用光
-    There is a piece of cloth that gives off light in the dark.
-</div>
-<div class="block">
-    8、commitment n.承诺，保证
-    commit v.承诺，保证,犯（罪或错等）
-    make a commitment to sth . 在某方面作出承诺
-    commit an error犯错
-    commit sb./oneself to （doing） sth.承诺某人做某事
-</div>
-<div class="block">
-    9、motive n.动机，原因
-    the motive for sth.做某事的动机
-    the motive power动力
-    It is still unclear what the motive for her coming was.
-</div>
 <p><b>课文笔记</b></p>
 <div class="block">
 	<?php template_list([
@@ -144,73 +78,49 @@
 		'Tiger Parents Do No Good to Kid’s Development告诉家长不要过分参与孩子的学习，要让他们在错误中成长',
 		'be responsible for 对…负责',
 		'settled down 安定下来',
-		'find out 发现、发明'
+		'find out 发现、发明',
+		'flat n.公寓',
+		'preserve your dignity   保持你的尊严',
+		'the opening speeches   开幕词',
+		'laboratory   n.实验室',
+		'declare  v.==>declaration   n.宣布',
+		'calculate  v.==>calculation  n.计算',
+		'deny   v.否认;拒绝',
+		'How did it come about that…. ……怎么发生的',
+		'the accused   被告',
+		'postpone  v.推迟',
+		'make oneself done 使某人自己被……',
+		'reaction to 对……的反应',
+		'find   it   adj. to do 发现做某事……',
+		'get through   to   sb. (电话)打通……',
+		'promote   v.  促进',
+		'resume writing  写简历',
+		'respondent  n.  调查对象',
+		'compulsory adj.  必修的',
+		'domestic tasks  家务琐事',
+		'curriculum   n.课程',
+		'endure  v.容忍==> endurance  n. 忍耐力',
+		'vigour n.精力==>vigorous adj.充满活力的'
 	]); ?>
 </div>
 <div class="block block-pink">
-    5.rhythm n.节奏
-    dance to the rhythm of the music随着音乐的节奏跳舞
-    music with a fast/slow/steady rhythm节奏快的/慢的/
-    平稳的音乐
-    They began moving together to the rhythm of the music.<br/>
-    6.nursery adj.幼儿教育的
-    nursery education幼儿教育
-    a nursery teacher幼儿教师
-    We ‘ve turned the smallest bedroom into a nursery for our new baby.幼儿室<br/>
-    7.folk adj.民间的
-    folk tales民间故事
-    folk arts民间艺术
-    folk songs民歌
-    It is a Chinese folk art with a long history.<br/>
-    8.recite v.背诵
-    recite sth. to sb.向某人背诵某物<br/>
-    9.dawn n.黎明
-    dusk n.黄昏
-    at dawn/dusk 在黎明/在黄昏
-    from dawn to dusk 从早到晚
-    The day starts at dawn on my farm.<br/>
-    10.amateur adj.业余的
-    an amateur singer业余歌手
-    反义词：professional adj.专业的<br/>
-    11.be made up of由……组成
-    =consist of
-    =be composed of
-    make up 组成，编造
-    make up for 弥补
-    Our class is made up of 52 students.<br/>
-    12.mood n.情绪
-    be in a good/bad mood心情好/不好
-    in no mood for没心思……
-    I was just too tired and not in the mood.没有心情<br/>
-    13.tease v.取笑
-    tease sb. about sth.拿……开某人的玩笑
-    同义短语
-    laugh at
-    play tricks on sb.
-    make fun of
-    play a joke on sb.
-    John’s always teasing me about my accent.<br/>
-    14.respectively adv.分别
-    respective adj.分别的
-    Julie and Mark, aged 17 and 19 respectively.分别
-    The respective roles of men and women in society
-    男女在社会中各自的角色<br/>
-    15.blossom n.花朵 vi.开花
-    be in blossom鲜花盛开
-    blossom into sth.发展成
-    The trees are in blossom.
-    Their friendship blossomed into love.<br/>
-    16.delicate adj.脆弱的,精美的
-    a child’s delicate skin小孩娇嫩的皮肤
-    a plate with a delicate pattern of leaves带着精美树叶图案的碟子
-    Most of them are extremely delicate.<br/>
-    17.await=wait for
-    A warm welcome awaits all our guests.<br/>
-    18.revolve v.旋转
-    revolve round/around绕……旋转
-    The earth revolves around the sun.<br/>
-    19.utter v.说 adj.完全的
-    utterly adv.完全地
-    an utter mystery完全是个谜
-    utter a unthinkable word说出一个无法想象的词
+	<?php template_list([
+		'labour   n.劳动 vi.努力工作 labour for为……而努力工作 manual labour 体力劳动 labour to do 努力做',
+		'grip v.紧握 grip hands紧紧握手 grip  the rope抓紧绳子 grip one’s attention吸引某人的注意力',
+		'hazy adj.模糊的，朦胧的 a hazy memory模糊的记忆 a hazy idea模糊的概念 go hazy变得模糊',
+		'fetch vt.去拿来 fetch sb. sth.为某人拿来某物 fetch sth. for sb.为某人拿来某物 fetch a doctor 去请医生',
+		'turn out 结果是 turn over  翻转,移交 turn to  转向，翻到，求助于 turn in上交 turn up出现;露面，开大音量 turn down拒绝，调低音量',
+		'pace n.步伐 at a…pace  以……速度 keep pace with  与……并驾齐驱',
+		'fall away逐渐减少，消失 fall back后退，撤退 fall behind落后 fall down掉下，跌倒',
+		'division n.分开 divide vt .除以; 使分开;分隔 a division of  …….的分歧',
+		'urge v.催促 urgent adj. 紧迫的；紧急的 urgency n. 紧迫；急迫 have an urge to do sth.有做某事的欲望 urge sb. to do /into doing sth.催促某人做某事 urge that …should do sth. 极力主张…… It is urged that …should do sth.极力主张……',
+		'random adj.随机的 randomly adv.随便地 at random随便地',
+		'maximum n.最大量 minimum  n.最小量 a maximum of 最多 up to a maximum of $1000 最高达1000美元',
+		'explode v.爆炸 explosion   n.爆炸，激增 explode into laughter突然大笑起来 explode with anger勃然大怒',
+		'jolt v.震动 be jolted by被……震惊 a sudden jolt突然一震',
+		'flip v.使快速翻转 flip over翻转',
+		'stun vt.使震惊 stunning  adj.令人震惊的',
+		'表示“吃惊的”的词 astonishing、surprising、shocking',
+		'mud n.泥浆 muddy adj.泥泞的'
+	])?>
 </div>
