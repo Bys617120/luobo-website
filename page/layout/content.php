@@ -23,7 +23,7 @@
     </section>
 </div>
 
-<section id="author" onclick="alert('萝卜最可爱了ww')">
+<section id="author" onclick="alert('今天是个好日子！520快乐！！！')">
     <img src="https://q1.qlogo.cn/g?b=qq&s=640&nk=1773966070" alt="可爱的萝卜ww" title="可爱的萝卜ww"/>
     <p>By.萝卜</p>
 </section>
