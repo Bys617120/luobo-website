@@ -23,12 +23,12 @@
     </section>
 </div>
 
-<section id="author" onclick="alert('今天是个好日子！520快乐！！！')">
-    <img src="https://q1.qlogo.cn/g?b=qq&s=640&nk=1773966070" alt="可爱的萝卜ww" title="可爱的萝卜ww"/>
-    <p>By.萝卜</p>
-</section>
+	<section id="author" onclick="alert('好耶')">
+    	<img src="https://q1.qlogo.cn/g?b=qq&s=640&nk=1773966070" alt="可爱的萝卜ww" title="可爱的萝卜ww"/>
+    	<p>By.萝卜</p>
+	</section>
 
-<script src="/assets/vendor/viewer.js/viewer.min.js"></script>
-<script src="/assets/js/main.js?r=<?= time(); ?>"></script>
-</body>
+	<script src="/assets/vendor/viewer.js/viewer.min.js"></script>
+	<script src="/assets/js/main.js?r=<?= time(); ?>"></script>
+	</body>
 </html>

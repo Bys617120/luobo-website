@@ -1,4 +1,4 @@
-<?php
+	<?php
 	$search = $_GET['search'] ?? '';
 	$pageDatabase = array_filter($pageDatabase, function ($info, $key) use ($search) {
 		if ($key === 'dir') return false;
@@ -15,8 +15,10 @@
 ?>
     <div class="search">
         <form>
-            <input name="search" value="<?= htmlspecialchars($search); ?>" placeholder="在此键入内容以搜索..."/>
-            <button><i class="iconfont icon-search"></i></button>
+			<label>
+				<input name="search" value="<?= htmlspecialchars($search); ?>" placeholder="在此键入内容以搜索..."/>
+			</label>
+			<button><i class="iconfont icon-search"></i></button>
         </form>
     </div>
 
@@ -33,5 +35,7 @@
 		<?php } ?>
     </div>
 <?php } else { ?>
-    <h1 style="text-align:center; padding:30px 0; ">_(:з)∠)_ 什么都没找到鸭...</h1>
+    <h1
+		style="text-align:center; padding:30px 0; ">_(:з)∠)_ 什么都没找到鸭...
+	</h1>
 <?php } ?>
